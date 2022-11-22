@@ -1,0 +1,12 @@
+#opencv-python
+opencv-python~=4.6.0.66
+#numpy
+numpy~=1.23.2
+#tensorflow
+tensorflow~=2.10.1
+gradio~=3.9.1
+mediapipe
+matplotlib
+av
+
+
